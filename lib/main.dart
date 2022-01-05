@@ -3,5 +3,7 @@ import 'package:flutter/material.dart';
 
 void main() {
   // runApp( const Home());
-  runApp(MaterialApp(home: BillSplitter()));
+  runApp(MaterialApp(
+     debugShowCheckedModeBanner: false,
+    home: BillSplitter()));
 }
