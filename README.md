@@ -1,16 +1,29 @@
-# flut_app_1
+# flut_cal
 
-A new Flutter project.
+A flutter app for Calculating bills amount and Tips
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To setup this project, you have to follow these simple steps.
+<ul>
+<li> Clone the repository by using the github cli, app, or the git clonehttps://github.com/Jpbroadvision/flut_cal command.</li>
+<li>Run the <code>flutter pub get </code> command to install all of the dependencies.</li>
+<li>Attach your phone or run <code>flutter emulators </code> to show all emulators installed.</li>
+<li>To run an emulator, run <code>flutter emulators --launch <emulator id></code>.</li>
+<li>To create a new emulator, run <code>flutter emulators --create [--name xyz]</code>.</li>
+</ul>
 
-A few resources to get you started if this is your first Flutter project:
+You can find more information on managing emulators at the links below:
+  > https://developer.android.com/studio/run/managing-avds
+  > https://developer.android.com/studio/command-line/avdmanager
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Language(s)
+1. Dart ^(version 2.14.4) 
+2. Flutter ^( version 2.5.3)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Main Files
+> The **lib/main.dart** is the main run file
+> The **lib/ui/home.dart** is the contains all the logics and ui
+
+
+
