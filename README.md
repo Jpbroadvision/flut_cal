@@ -6,7 +6,7 @@ A flutter app for Calculating bills amount and Tips
 
 To setup this project, you have to follow these simple steps.
 <ul>
-<li> Clone the repository by using the github cli, app, or the <code>git clone https://github.com/<Your-User-name-here>/flut_cal </code> command from terminal to the desire path or folder.</li>
+<li> Clone the repository by using the github cli, app, or the <code>git clone https://github.com/Your-User-name-here/flut_cal </code> command from terminal to the desire path or folder.</li>
 <li>Run the <code>flutter pub get </code> command to install all of the dependencies.</li>
 <li>Attach your phone or run <code>flutter emulators </code> to show all emulators installed.</li>
 <li>To run an emulator, run <code>flutter emulators --launch <emulator id></code>.</li>
